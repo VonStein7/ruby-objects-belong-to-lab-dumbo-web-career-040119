@@ -1,3 +1,3 @@
-def Author 
+class Author 
   
 end
